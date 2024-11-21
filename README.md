@@ -73,7 +73,7 @@ A **16 GB RAM** option in the Raspberry Pi 6 is, in my opinion, crucial for prof
 
 If this version is going to be noticeably more expensive, that's okay, but please make it available.
 
-![alt text](images/16GB_RAM_meme.png)
+![alt text](images/16GB_RAM.png)
 
 ## CPU
 
@@ -91,7 +91,7 @@ The Raspberry Pi Imager should enable direct image burning onto an NVMe drive an
 - **Beeper/Buzzer**: A cost-effective way to provide an additional means of communication with the user.
 - **Camera and RTC Connectors**: No changes needed.
 - **Power Button Connector**: Allowing it to be extended to the enclosure panel, as in the Raspberry Pi 5.
-- **MicroSD Card Slot**: Retained for compatibility.
+- **microSD Card Slot**: Retained for compatibility.
 - **PoE**: No changes needed.
 - **QR Code on PCB**: Containing a unique CPU ID, LAN MAC, and WiFi MAC, placed on the underside of the device.
 - **Test Pads on the Underside**: For everything that might be useful.
