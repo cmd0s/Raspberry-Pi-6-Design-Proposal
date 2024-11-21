@@ -66,7 +66,12 @@ It would be valuable to introduce the ability to set the boot order using a keyb
 
 ## RAM
 
-A 16 GB RAM option in the Raspberry Pi 6 is, in my opinion, crucial for professional applications. The current limitation to 8 GB RAM can be an obstacle for broader usage.
+<div style="display: flex; align-items: center;">
+  <img src="images/16GB_RAM_meme.png" alt="Opis obrazka" style="width: 300px; margin-right: 20px;">
+  <p>
+    A <b>16 GB RAM</b> option in the Raspberry Pi 6 is, in my opinion, crucial for professional applications. The current limitation to 8 GB RAM can be an obstacle for broader usage.
+  </p>
+</div>
 
 ## CPU
 
