@@ -5,6 +5,7 @@ I am excited to share my vision for the new Raspberry Pi 6 — a device that not
 My vision doesn't focus on aspects like the processor or other core components but rather on the optimal placement and functionality of connectors. These changes would make the Raspberry Pi even more useful and compatible with various applications. Importantly, these modifications do not require altering basic parameters such as the PCB dimensions, the location of the 40-pin GPIO connector, or the mounting holes, thus maintaining maximum compatibility with existing solutions.
 
 ![ReadMe Image](images/ReadMeImage.png)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmd0s%2FRaspberry-Pi-6-Design-Proposal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Connector Placement
 
@@ -94,5 +95,7 @@ My vision for the Raspberry Pi 6 focuses on enhancing functionality through bett
 ## Contribution
 
 If anyone would like to submit their own ideas for improving the Raspberry Pi, please feel free to open an issue and describe your suggestion as precisely as possible. This repository represents my thoughts and serves as an invitation for further discussion. Let's let the community know what we expect from the successor to the Raspberry Pi 5.
+
+You can also start a discussion in the [Discussions](https://github.com/cmd0s/Raspberry-Pi-6-Design-Proposal/discussions) tab on GitHub.
 
 I am also sharing the 3D models I used so that the community can easily edit them and showcase their own ideas. I created the visualizations in Fusion 360.
