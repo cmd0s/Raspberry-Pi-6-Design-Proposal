@@ -2,10 +2,13 @@
 
 I am excited to share my vision for the new Raspberry Pi 6 — a device that not only better meets professional requirements but also becomes an even more versatile tool for makers and hobbyists alike. I believe the changes I'm proposing will make the Raspberry Pi more competitive in the single-board computer market and open up a range of new possibilities for users—allowing for the creation of innovative, creative projects that are more useful and offer a better user experience.
 
-My vision doesn't focus on aspects like the processor or other core components but rather on the optimal placement and functionality of connectors. These changes would make the Raspberry Pi even more useful and compatible with various applications. Importantly, these modifications do not require altering basic parameters such as the PCB dimensions, the location of the 40-pin GPIO connector, or the mounting holes, thus maintaining maximum compatibility with existing solutions.
+My vision doesn't focus on aspects like the processor or other core components but rather on the optimal placement and functionality of connectors. These changes would make the Raspberry Pi even more useful and compatible with various applications. Importantly, these modifications do not require altering basic parameters such as the PCB dimensions, the location of the 40-pin GPIO connector, or the mounting holes, thus maintaining maximum compatibility with existing solutions. 
 
-![ReadMe Image](images/ReadMeImage.png)
+![ReadMe Image](images/ReadMeImage_text.png)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmd0s%2FRaspberry-Pi-6-Design-Proposal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Disclaimer 
+Raspberry Pi is a trademark of Raspberry Pi Ltd. The use of this trademark here is solely for descriptive purposes to present my vision for a potential future version of this microcomputer. I am not affiliated with Raspberry Pi Ltd., and this work is purely speculative. I derive no financial benefit from this content. The Raspberry Pi 6 does not currently exist, and all descriptions provided here are merely my personal concept of what it might be like.
 
 ## Connector Placement
 
