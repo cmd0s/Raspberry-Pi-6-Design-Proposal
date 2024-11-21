@@ -46,6 +46,8 @@ In professional applications, there's often a need for a built-in LED that can b
 
 The LED could be located on the front between the connectors or on the back of the PCB under the connectors.
 
+![alt text](images/ReadMeLED.png)
+
 The existing power/status LED (green/red) that indicates the device's state should remain unchanged to maintain compatibility.
 
 ## M.2 NVMe Slot
