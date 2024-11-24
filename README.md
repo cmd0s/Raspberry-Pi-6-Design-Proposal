@@ -55,7 +55,7 @@ The existing power/status LED (green/red) that indicates the device's state shou
 
 ## M.2 NVMe Slot
 
-In the Raspberry Pi 6, an M.2 NVMe slot should be standard. It should be located on the underside of the PCB and support 2230 and 2242 size drives. At least one PCIe Gen 3 lane, ideally two PCIe Gen 3 lanes or one PCIe Gen 4 lane.
+In the Raspberry Pi 6, an M.2 NVMe slot should be standard. It should be located on the underside of the PCB and support 2230 and 2242 size drives. At least one PCIe Gen 3 lane, ideally two PCIe Gen 3 lanes.
 
 It would be best to have mounting holes for both 2230 and 2242 sizes. However, it's acceptable to provide mounting only for 2242, as a 3D-printed adapter can be used to mount a 2230 drive to a 2242 slot, like this one: [M.2 SSD 2230 to 2242 Adapter](https://www.printables.com/model/578236-m2-ssd-2230-to-2242).
 
